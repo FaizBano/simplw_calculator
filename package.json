@@ -1,0 +1,24 @@
+{
+  "name": "ff8f8simple_calculator",
+  "version": "1.0.0",
+  "description": "a simple calculator with typescript, node.js and inquirer",
+  "main": "index.js",
+  "module": "module",
+  "type": "module",
+  "bin": {
+    "ff8f8simple_calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "faiz",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.11.30"
+  }
+}
